@@ -5,6 +5,7 @@
 The game is called Life bullet, and as the name suggests, it is a bullet with a life. Even in a stagnant green environment, players can pick up the phone to open the project, fire lifebullet, and create their own virtual garden by growing virtual plants on the ground.
 
 <img width="360" height="640" scr="github.com/lllllau/Life-Bullet/assets/163080192/dc4887b2-1017-481a-92aa-09294ab90932"/>
+
 ***
 ## 安装说明/Installation instructions
 ### 游戏所需的平台和设备/The platform and equipmentrequired for the game
@@ -33,6 +34,7 @@ Sample AR- Gently shake the phone to ensure that the plane is fully recognized b
 
 ![lAHPD3Ir6pTakCnNAdjNASw_300_472](https://github.com/lllllau/Life-Bullet/assets/163080192/814c93e7-7f5e-4d11-9833-596621ef98e5)
 ![lAHPJwKt64F3kBfNAdzNASw_300_476](https://github.com/lllllau/Life-Bullet/assets/163080192/3de7f6a5-71a8-4312-b379-39d8ea25a27d)
+
 ***
 ## 技术实现/Technical realization
 此项目使用了Unity和AR Foundation来实现AR功能。我使用了AR Foundation samples中的Sample AR和Face Pose作为基础，通过它们我们可以在现实世界中放置虚拟对象，并跟踪用户的面部。
@@ -56,6 +58,7 @@ In addition, we used Unity's animation system and particle system to create some
 In the design phase, we first determined the basic concepts and rules of the game. Then, we designed the user interface and interaction methods for the game. It was ultimately determined to be a first person shooter game.
 
 ![微信图片_20240423184734](https://github.com/lllllau/Life-Bullet/assets/163080192/5b5c6272-bd17-4e6b-9460-73c0b81cb1d4)
+
 ### 项目开发/Project development
 在开发阶段，我们使用Unity和AR Foundation来实现游戏的主要功能。我们使用Sample AR和Face Pose来在现实世界中放置虚拟对象，并跟踪用户的面部表情。我们还使用Unity的物理引擎和动画系统来处理射击和碰撞效果，以及创建视觉效果。
 
