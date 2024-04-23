@@ -17,10 +17,10 @@ The game is called Life bullet, and as the name suggests, it is a bullet with a 
 3. 安装必要的依赖项，包括AR Foundation和ARKit Face Tracking
 4. 在你的设备上运行项目
 
-`1. Clone the repository
-`2. Open Unity and import the project
-`3. Install the necessary dependencies, including AR Foundation and ARKit Face Tracking
-`4. Run the project on your device
+·Clone the repository
+·Open Unity and import the project
+·Install the necessary dependencies, including AR Foundation and ARKit Face Tracking
+·Run the project on your device
 ***
 ##  游戏玩法Game play
 Sample AR-轻轻晃动手机，确保平面被手机充分识别，可通过手机中平面的白色边框来确认；对准平面后，点击屏幕，让子弹射出，在子弹接触平面的地方植株长出，每次长出的植物随机出现，让自制虚拟花园更具多样性。
