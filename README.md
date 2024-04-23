@@ -5,12 +5,11 @@
 The game is called Life bullet, and as the name suggests, it is a bullet with a life. Even in a stagnant green environment, players can pick up the phone to open the project, fire lifebullet, and create their own virtual garden by growing virtual plants on the ground.
 ***
 ## 安装说明/Installation instructions
-**游戏所需的平台和设备/The platform and equipmentrequired for the game**
+### 游戏所需的平台和设备/The platform and equipmentrequired for the game**
 1. Unity 2022.3.17f1c1
 2. Xcode 15.2
 3. iPhone with lidar capability
-***
-**安装游戏的步骤/Steps to install the game**
+### 安装游戏的步骤/Steps to install the game**
 1. 克隆此仓库
 2. 打开Unity并导入项目
 3. 安装必要的依赖项，包括AR Foundation和ARKit Face Tracking
