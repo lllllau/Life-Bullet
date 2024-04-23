@@ -3,7 +3,6 @@
 游戏名为Life bullet，顾名思义，这是一颗带有生命的子弹。即便是在绿意萧条的环境下，玩家也可以拿起手机打开此项目，发射lifebullet，在地面上长出的一棵棵虚拟植株，来创造属于自己的虚拟花园。
 
 The game is called Life bullet, and as the name suggests, it is a bullet with a life. Even in a stagnant green environment, players can pick up the phone to open the project, fire lifebullet, and create their own virtual garden by growing virtual plants on the ground.
-![life bullet-封面](https://github.com/lllllau/Life-Bullet/assets/163080192/91c87345-4de7-4de1-b152-eaa8211ec008)
 ***
 ## 安装说明Installation instructions
 **游戏所需的平台和设备The platform and equipmentrequired for the game**
