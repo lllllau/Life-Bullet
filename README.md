@@ -22,8 +22,8 @@ The game is called Life bullet, and as the name suggests, it is a bullet with a 
 3. Install the necessary dependencies, including AR Foundation and ARKit Face Tracking
 4. Run the project on your device
 ***
-6. ##  游戏玩法Game play
-7.  Sample AR-轻轻晃动手机，确保平面被手机充分识别，可通过手机中平面的白色边框来确认；对准平面后，点击屏幕，让子弹射出，在子弹接触平面的地方植株长出，每次长出的植物随机出现，让自制虚拟花园更具多样性。
+##  游戏玩法Game play
+Sample AR-轻轻晃动手机，确保平面被手机充分识别，可通过手机中平面的白色边框来确认；对准平面后，点击屏幕，让子弹射出，在子弹接触平面的地方植株长出，每次长出的植物随机出现，让自制虚拟花园更具多样性。
 
 （彩蛋）Face tracking-人体及面部出现在屏幕中，点击屏幕子弹射中目标为人体时，虚拟面部服饰生成。
 
@@ -57,4 +57,5 @@ Virtual clothing can achieve the effect of winding and growing on the human body
 ***
 ## 致谢Acknowledgeme
 指导老师：俞同舟，卢泳如
+
 advisor：Yu Tongzhou, Lu Yongru.
